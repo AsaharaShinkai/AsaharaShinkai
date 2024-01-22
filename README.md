@@ -1,4 +1,4 @@
-<p alight="center">
+<p align="center">
 <img src="ekalibur.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Jannlenn Viernes</h1>
