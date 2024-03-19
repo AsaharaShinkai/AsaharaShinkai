@@ -2,7 +2,7 @@
 <img src="ekalibur.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Jannlenn Viernes</h1>
-<h3 align="center">test</h3>
+<h3 align="center">rebooting...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asaharashinkai&label=Profile%20views&color=0e75b6&style=flat" alt="asaharashinkai" /> </p>
 
